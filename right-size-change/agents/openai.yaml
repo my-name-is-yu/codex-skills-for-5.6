@@ -1,0 +1,4 @@
+interface:
+  display_name: "Right-Size Change"
+  short_description: "Keep software changes complete and evidence-bounded"
+  default_prompt: "Use $right-size-change to calibrate the scope of this software change."

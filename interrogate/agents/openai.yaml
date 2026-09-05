@@ -1,0 +1,6 @@
+interface:
+  display_name: "Interrogate"
+  short_description: "Run independent adversarial reviews of a change"
+  default_prompt: "Use $interrogate to challenge this change and synthesize the findings."
+policy:
+  allow_implicit_invocation: false
